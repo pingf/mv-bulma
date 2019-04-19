@@ -1,0 +1,20 @@
+{
+  "name": "mv-bulma-box",
+  "version": "0.1.0",
+  "description": "A white box to contain other elements",
+  "keywords": [
+    "vue",
+    "bulma",
+    "box"
+  ],
+  "author": "Jesse MENG <pingf0@gmail.com>",
+  "homepage": "https://github.com/pingf/mv-bulma",
+  "license": "MIT",
+  "main": "src/main.js",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "bulma": "^0.7.2"
+  }
+}
