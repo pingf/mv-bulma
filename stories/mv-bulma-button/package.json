@@ -17,5 +17,6 @@
   "dependencies": {
     "bulma": "^0.7.2",
     "mv-bulma-common": "^0.1.0"
-  }
+  },
+  "gitHead": "c09f1958c9dbbaf40536006af2a0f17a317cc2fa"
 }

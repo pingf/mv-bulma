@@ -8,5 +8,6 @@
   "main": "src/main.js",
   "files": [
     "src"
-  ]
+  ],
+  "gitHead": "c09f1958c9dbbaf40536006af2a0f17a317cc2fa"
 }
