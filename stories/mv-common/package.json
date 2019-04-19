@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Vue-bulma common",
   "author": "Jesse MENG <pingf0@gmail.com>",
-  "homepage": "https://github.com/pingf/mv-bulma",
+  "homepage": "https://github.com/pingf/mv-comp",
   "license": "MIT",
   "main": "src/main.js",
   "files": [

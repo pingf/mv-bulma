@@ -11,7 +11,7 @@ import Welcome from './Welcome';
 
 // Vue.component(name, value)
 import Vue from 'vue'
-import * as components from './mv-bulma/src/main'
+import * as components from './mv-comp/src/main'
 
 // In the global registration
 for (const [key, value] of Object.entries(components)) {
@@ -23,7 +23,11 @@ for (const [key, value] of Object.entries(components)) {
 
 storiesOf('Button', module).add('Button', () => ({
   components: { Welcome },
-  template: '<div><mv-button>hello world</mv-button> <mv-button color="link">Link</mv-button> <mv-button color="info">Info</mv-button> <mv-button color="success">Success</mv-button> </div>',
+  template: `<div>
+              <mv-button color="link">Link</mv-button>
+              <mv-button color="info">Info</mv-button> 
+              <mv-button color="success">Success</mv-button>
+             </div>`,
   methods: { action: linkTo('MyButton') },
 }));
 
