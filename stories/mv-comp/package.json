@@ -1,6 +1,6 @@
 {
   "name": "mv-comp",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "description": "A modern UI framework based on Vue and Bulma(fork)",
   "keywords": [
     "vue",
@@ -21,8 +21,8 @@
     "url": "https://github.com/pingf/vue-comp/issues"
   },
   "dependencies": {
-    "mv-bulma-box": "^0.0.0",
-    "mv-bulma-button": "^0.0.0"
+    "mv-bulma-box": "^0.2.1",
+    "mv-bulma-button": "^0.2.1"
   },
   "gitHead": "2e5733fcdb080a343ecd9be716838661df88073b"
 }

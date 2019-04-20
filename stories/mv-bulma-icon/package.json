@@ -1,6 +1,6 @@
 {
   "name": "mv-bulma-icon",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "description": "Icons take an important role of any application",
   "author": "Jesse MENG <pingf0@gmail.com>",
   "homepage": "https://github.com/pingf/mv-comp",
@@ -12,6 +12,6 @@
   "dependencies": {
     "bulma": "^0.7.4",
     "font-awesome": "^4.7.0",
-    "mv-bulma-common": "^0.0.0"
+    "mv-bulma-common": "^0.2.1"
   }
 }

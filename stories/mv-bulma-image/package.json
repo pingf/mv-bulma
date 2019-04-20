@@ -1,13 +1,12 @@
 {
   "name": "mv-bulma-image",
-  "version": "0.0.0",
-  "description": "A container for responsive images",
+  "version": "0.2.1",
+  "description": "Icons take an important role of any application",
   "keywords": [
     "vue",
     "bulma",
     "image"
   ],
-  "description": "Icons take an important role of any application",
   "author": "Jesse MENG <pingf0@gmail.com>",
   "license": "MIT",
   "main": "src/main.js",

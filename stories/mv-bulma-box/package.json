@@ -1,6 +1,6 @@
 {
   "name": "mv-bulma-box",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "description": "A white box to contain other elements",
   "keywords": [
     "vue",
