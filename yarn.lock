@@ -2974,8 +2974,8 @@ chalk@^1.1.1:
     supports-color "^2.0.0"
 
 change-emitter@^0.1.2:
-  version "0.1.6"
-  resolved "http://registry.npm.taobao.org/change-emitter/download/change-emitter-0.1.6.tgz#e8b2fe3d7f1ab7d69a32199aff91ea6931409515"
+  version "0.2.0"
+  resolved "http://registry.npm.taobao.org/change-emitter/download/change-emitter-0.2.0.tgz#e8b2fe3d7f1ab7d69a32199aff91ea6931409515"
   integrity sha1-6LL+PX8at9aaMhma/5HqaTFAlRU=
 
 character-entities-legacy@^1.0.0:
@@ -5379,9 +5379,9 @@ ipaddr.js@1.9.0:
   resolved "http://registry.npm.taobao.org/ipaddr.js/download/ipaddr.js-1.9.0.tgz#37df74e430a0e47550fe54a2defe30d8acd95f65"
   integrity sha1-N9905DCg5HVQ/lSi3v4w2KzZX2U=
 
-is-accessor-descriptor@^0.1.6:
-  version "0.1.6"
-  resolved "http://registry.npm.taobao.org/is-accessor-descriptor/download/is-accessor-descriptor-0.1.6.tgz#a9e12cb3ae8d876727eeef3843f8a0897b5c98d6"
+is-accessor-descriptor@^0.2.0:
+  version "0.2.0"
+  resolved "http://registry.npm.taobao.org/is-accessor-descriptor/download/is-accessor-descriptor-0.2.0.tgz#a9e12cb3ae8d876727eeef3843f8a0897b5c98d6"
   integrity sha1-qeEss66Nh2cn7u84Q/igiXtcmNY=
   dependencies:
     kind-of "^3.0.2"
@@ -5460,11 +5460,11 @@ is-decimal@^1.0.0:
   integrity sha1-iUZi1qhwnTB/OidspDOcj6Xf8P8=
 
 is-descriptor@^0.1.0:
-  version "0.1.6"
-  resolved "http://registry.npm.taobao.org/is-descriptor/download/is-descriptor-0.1.6.tgz#366d8240dde487ca51823b1ab9f07a10a78251ca"
+  version "0.2.0"
+  resolved "http://registry.npm.taobao.org/is-descriptor/download/is-descriptor-0.2.0.tgz#366d8240dde487ca51823b1ab9f07a10a78251ca"
   integrity sha1-Nm2CQN3kh8pRgjsaufB6EKeCUco=
   dependencies:
-    is-accessor-descriptor "^0.1.6"
+    is-accessor-descriptor "^0.2.0"
     is-data-descriptor "^0.1.4"
     kind-of "^5.0.0"
 
@@ -7465,7 +7465,7 @@ prismjs@^1.8.4, prismjs@~1.16.0:
   optionalDependencies:
     clipboard "^2.0.0"
 
-private@^0.1.6:
+private@^0.2.0:
   version "0.1.8"
   resolved "http://registry.npm.taobao.org/private/download/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
   integrity sha1-I4Hts2ifelPWUxkAYPz4ItLzaP8=
@@ -8103,7 +8103,7 @@ regenerator-transform@^0.13.4:
   resolved "http://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.13.4.tgz#18f6763cf1382c69c36df76c6ce122cc694284fb"
   integrity sha1-GPZ2PPE4LGnDbfdsbOEizGlChPs=
   dependencies:
-    private "^0.1.6"
+    private "^0.2.0"
 
 regex-not@^1.0.0, regex-not@^1.0.2:
   version "1.0.2"

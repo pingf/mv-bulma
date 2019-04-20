@@ -1,11 +1,11 @@
-# `mv-bulma-box`
+# `mv-bulma-icon`
 
 > TODO: description
 
 ## Usage
 
 ```
-const vueBulmaBox = require('mv-bulma-box');
+const vueBulmaIcon = require('mv-bulma-icon');
 
 // TODO: DEMONSTRATE API
 ```

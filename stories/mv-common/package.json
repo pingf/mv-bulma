@@ -1,6 +1,6 @@
 {
   "name": "mv-bulma-common",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "description": "Vue-bulma common",
   "author": "Jesse MENG <pingf0@gmail.com>",
   "homepage": "https://github.com/pingf/mv-comp",
@@ -8,6 +8,5 @@
   "main": "src/main.js",
   "files": [
     "src"
-  ],
-  "gitHead": "c09f1958c9dbbaf40536006af2a0f17a317cc2fa"
+  ]
 }

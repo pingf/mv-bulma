@@ -1,11 +1,11 @@
-# `vue-bulma-common`
+# `mv-bulma-common`
 
 > TODO: description
 
 ## Usage
 
 ```
-const vueBulmaCommon = require('vue-bulma-common');
+const vueBulmaCommon = require('mv-bulma-common');
 
 // TODO: DEMONSTRATE API
 ```

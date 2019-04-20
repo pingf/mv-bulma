@@ -1,14 +1,14 @@
 {
-  "name": "mv-bulma-box",
+  "name": "mv-bulma-image",
   "version": "0.0.0",
-  "description": "A white box to contain other elements",
+  "description": "A container for responsive images",
   "keywords": [
     "vue",
     "bulma",
-    "box"
+    "image"
   ],
+  "description": "Icons take an important role of any application",
   "author": "Jesse MENG <pingf0@gmail.com>",
-  "homepage": "https://github.com/pingf/mv-comp",
   "license": "MIT",
   "main": "src/main.js",
   "files": [
@@ -16,6 +16,5 @@
   ],
   "dependencies": {
     "bulma": "^0.7.4"
-  },
-  "gitHead": "2e5733fcdb080a343ecd9be716838661df88073b"
+  }
 }

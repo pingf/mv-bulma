@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const vueBulma = require('vue-bulma');
+const vueBulma = require('mv-bulma');
 
 // TODO: DEMONSTRATE API
 ```

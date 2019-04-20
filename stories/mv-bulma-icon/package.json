@@ -1,12 +1,7 @@
 {
-  "name": "mv-bulma-button",
+  "name": "mv-bulma-icon",
   "version": "0.0.0",
-  "description": "The classic button, in different colors, sizes, and states",
-  "keywords": [
-    "vue",
-    "bulma",
-    "button"
-  ],
+  "description": "Icons take an important role of any application",
   "author": "Jesse MENG <pingf0@gmail.com>",
   "homepage": "https://github.com/pingf/mv-comp",
   "license": "MIT",
@@ -16,6 +11,7 @@
   ],
   "dependencies": {
     "bulma": "^0.7.4",
+    "font-awesome": "^4.7.0",
     "mv-bulma-common": "^0.0.0"
   }
 }
