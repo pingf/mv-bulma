@@ -6,7 +6,7 @@ const STATES = ['loading', 'active', 'focused', 'hovered', 'static']
 export default {
   name: 'mv-button',
   inject: {
-    vbFormItem: {
+    mvFormItem: {
       default: ''
     }
   },
@@ -29,7 +29,7 @@ export default {
   },
   computed: {
     formSize() {
-      return this.size || this.vbFormItem._formSize
+      return this.size || this.mvFormItem._formSize
     },
     classes() {
       const {

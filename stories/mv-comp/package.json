@@ -22,7 +22,10 @@
   },
   "dependencies": {
     "mv-bulma-box": "^0.2.1",
-    "mv-bulma-button": "^0.2.1"
+    "mv-bulma-button": "^0.2.1",
+    "mv-bulma-card": "^0.2.1",
+    "mv-bulma-icon": "^0.2.1",
+    "mv-bulma-image": "^0.2.1"
   },
-  "gitHead": "2e5733fcdb080a343ecd9be716838661df88073b"
+  "gitHead": "085a544cc33ab1178d11fb831f8aba499caf8e1f"
 }

@@ -20,6 +20,22 @@ for (const [key, value] of Object.entries(components)) {
   Vue.component(name, value)
 }
 
+storiesOf('Card', module).add('Card', () => ({
+  components: { Welcome },
+  template: `
+              <div>
+                <mv-card>
+                  <mv-image slot="image" src="https://bulma.io/images/placeholders/1280x960.png" size="4by1"></mv-image>
+
+                  <mv-card-footer-item @click="handleSave">Save</mv-card-footer-item>
+                  <mv-card-footer-item @click="handleEdit">Edit</mv-card-footer-item>
+                  <mv-card-footer-item @click="handleDelete">Delete</mv-card-footer-item>
+
+                </mv-card>
+              </div>
+             `,
+  methods: { action: linkTo('MyButton') },
+}));
 
 storiesOf('Button', module).add('Button', () => ({
   components: { Welcome },
