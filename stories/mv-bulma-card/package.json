@@ -1,6 +1,6 @@
 {
   "name": "mv-bulma-card",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An all-around flexible and composable component",
   "keywords": [
     "vue",
@@ -16,8 +16,8 @@
   ],
   "dependencies": {
     "bulma": "^0.7.4",
-    "mv-bulma-icon": "^0.2.1",
-    "mv-bulma-image": "^0.2.1"
+    "mv-bulma-icon": "^0.2.2",
+    "mv-bulma-image": "^0.2.2"
   },
   "gitHead": "085a544cc33ab1178d11fb831f8aba499caf8e1f"
 }
